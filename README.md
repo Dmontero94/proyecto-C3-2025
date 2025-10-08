@@ -35,3 +35,9 @@ function calcularIMC() {
     document.getElementById("txtClasificacionImc").value = clasificacion;
 }
 ``` 
+
+### Tablas
+|Variables|Descripción|Valor Inicial|
+|---------|-----------|-------------|
+| peso  | Peso de la persona | 0 |
+| estatura | Estatura de la persona | 0 |
