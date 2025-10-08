@@ -42,4 +42,5 @@ function calcularIMC() {
 | peso  | Peso de la persona | 0 |
 | estatura | Estatura de la persona | 0 |
 
+[Google](https://www.google.com)
 ! [Imagen](https://www.lisdatasolutions.com/wp-content/uploads/2022/07/Que-es-y-para-que-sirve-GitHub-1.jpg)
