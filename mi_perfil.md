@@ -2,7 +2,7 @@
 
 1. Aprendo rapido
 2. Cocino rico
-3. Manejo bien
+3. Condusco bien
 4. Soy muy buena con las tecnologias
 
 > Las personas cambian cuando quieren cambiar
