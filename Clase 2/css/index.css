@@ -1,0 +1,42 @@
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    margin: 20px;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+}
+
+.input-container {
+    margin-bottom: 20px;
+}
+
+.input-container label {
+    display: inline-block;
+    width: 150px;
+}
+
+.input-container input,
+.input-container output {
+    display: inline-block;
+    height: 25px;
+    width: 200px;
+}
+
+button {
+    height: 30px;
+    width: 100px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.input-error {
+    border: 2px solid red;
+}
